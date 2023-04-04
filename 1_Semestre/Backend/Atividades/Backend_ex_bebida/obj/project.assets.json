@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\BAPTI\\Desktop\\Backend\\Atividades\\Backend_ex_bebida\\Backend_ex_bebida.csproj",
+      "projectUniqueName": "C:\\Users\\BAPTI\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Backend\\Atividades\\Backend_ex_bebida\\Backend_ex_bebida.csproj",
       "projectName": "Backend_ex_bebida",
-      "projectPath": "C:\\Users\\BAPTI\\Desktop\\Backend\\Atividades\\Backend_ex_bebida\\Backend_ex_bebida.csproj",
+      "projectPath": "C:\\Users\\BAPTI\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Backend\\Atividades\\Backend_ex_bebida\\Backend_ex_bebida.csproj",
       "packagesPath": "C:\\Users\\BAPTI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\BAPTI\\Desktop\\Backend\\Atividades\\Backend_ex_bebida\\obj\\",
+      "outputPath": "C:\\Users\\BAPTI\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Backend\\Atividades\\Backend_ex_bebida\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\BAPTI\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -53,14 +53,14 @@ switch (escolha)
     case 4:
         if (escolha == 4)
     {
-            Console.ForegroundColor = ConsoleColor.Red;
+            Console.ForegroundColor = ConsoleColor.Yellow;
             Console.WriteLine($"Sem gelo adicional");
             Console.ResetColor();
     }        
         break;
     
     default: 
-        Console.ForegroundColor = ConsoleColor.Yellow;
+        Console.ForegroundColor = ConsoleColor.Red;
         Console.WriteLine($"Opção inválida, tente novamente.");
         Console.ResetColor();
         
