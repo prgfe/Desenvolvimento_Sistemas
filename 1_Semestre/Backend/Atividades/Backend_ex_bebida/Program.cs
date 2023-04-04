@@ -24,8 +24,12 @@ int escolha = int.Parse(Console.ReadLine()!);
 switch (escolha)
 {
     case 1:
-        if (escolha == 1)
-    {
+    Console.ForegroundColor = ConsoleColor.DarkRed;
+    Console.WriteLine($"Coca-cola");
+    Console.ResetColor();
+
+    if (escolha == 1)
+    {                       
             Console.ForegroundColor = ConsoleColor.Green;
             Console.WriteLine($"Gelo adicional");
             Console.ResetColor();
@@ -33,6 +37,10 @@ switch (escolha)
         break;
 
     case 2:
+    Console.ForegroundColor = ConsoleColor.DarkBlue;
+    Console.WriteLine($"Pepsi");
+    Console.ResetColor();
+    
         if (escolha == 2)
     {
             Console.ForegroundColor = ConsoleColor.Green;
@@ -42,6 +50,10 @@ switch (escolha)
         break;
 
     case 3:
+    Console.ForegroundColor = ConsoleColor.DarkYellow;
+    Console.WriteLine($"Fanta");
+    Console.ResetColor();
+    
         if (escolha == 3) 
     {
             Console.ForegroundColor = ConsoleColor.Green;
@@ -51,6 +63,10 @@ switch (escolha)
         break;
 
     case 4:
+    Console.ForegroundColor = ConsoleColor.DarkGreen;
+    Console.WriteLine($"Monster");
+    Console.ResetColor();
+    
         if (escolha == 4)
     {
             Console.ForegroundColor = ConsoleColor.Yellow;
