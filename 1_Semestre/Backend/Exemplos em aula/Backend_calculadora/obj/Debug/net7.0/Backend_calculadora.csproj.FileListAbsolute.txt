@@ -1,0 +1,15 @@
+C:\Users\38279457801\Desktop\Backend_calculadora\bin\Debug\net7.0\Backend_calculadora.exe
+C:\Users\38279457801\Desktop\Backend_calculadora\bin\Debug\net7.0\Backend_calculadora.deps.json
+C:\Users\38279457801\Desktop\Backend_calculadora\bin\Debug\net7.0\Backend_calculadora.runtimeconfig.json
+C:\Users\38279457801\Desktop\Backend_calculadora\bin\Debug\net7.0\Backend_calculadora.dll
+C:\Users\38279457801\Desktop\Backend_calculadora\bin\Debug\net7.0\Backend_calculadora.pdb
+C:\Users\38279457801\Desktop\Backend_calculadora\obj\Debug\net7.0\Backend_calculadora.csproj.AssemblyReference.cache
+C:\Users\38279457801\Desktop\Backend_calculadora\obj\Debug\net7.0\Backend_calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38279457801\Desktop\Backend_calculadora\obj\Debug\net7.0\Backend_calculadora.AssemblyInfoInputs.cache
+C:\Users\38279457801\Desktop\Backend_calculadora\obj\Debug\net7.0\Backend_calculadora.AssemblyInfo.cs
+C:\Users\38279457801\Desktop\Backend_calculadora\obj\Debug\net7.0\Backend_calculadora.csproj.CoreCompileInputs.cache
+C:\Users\38279457801\Desktop\Backend_calculadora\obj\Debug\net7.0\Backend_calculadora.dll
+C:\Users\38279457801\Desktop\Backend_calculadora\obj\Debug\net7.0\refint\Backend_calculadora.dll
+C:\Users\38279457801\Desktop\Backend_calculadora\obj\Debug\net7.0\Backend_calculadora.pdb
+C:\Users\38279457801\Desktop\Backend_calculadora\obj\Debug\net7.0\Backend_calculadora.genruntimeconfig.cache
+C:\Users\38279457801\Desktop\Backend_calculadora\obj\Debug\net7.0\ref\Backend_calculadora.dll

@@ -1,0 +1,15 @@
+C:\Users\38279457801\Desktop\Backend_exemplos\bin\Debug\net7.0\Backend_exemplos.exe
+C:\Users\38279457801\Desktop\Backend_exemplos\bin\Debug\net7.0\Backend_exemplos.deps.json
+C:\Users\38279457801\Desktop\Backend_exemplos\bin\Debug\net7.0\Backend_exemplos.runtimeconfig.json
+C:\Users\38279457801\Desktop\Backend_exemplos\bin\Debug\net7.0\Backend_exemplos.dll
+C:\Users\38279457801\Desktop\Backend_exemplos\bin\Debug\net7.0\Backend_exemplos.pdb
+C:\Users\38279457801\Desktop\Backend_exemplos\obj\Debug\net7.0\Backend_exemplos.csproj.AssemblyReference.cache
+C:\Users\38279457801\Desktop\Backend_exemplos\obj\Debug\net7.0\Backend_exemplos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38279457801\Desktop\Backend_exemplos\obj\Debug\net7.0\Backend_exemplos.AssemblyInfoInputs.cache
+C:\Users\38279457801\Desktop\Backend_exemplos\obj\Debug\net7.0\Backend_exemplos.AssemblyInfo.cs
+C:\Users\38279457801\Desktop\Backend_exemplos\obj\Debug\net7.0\Backend_exemplos.csproj.CoreCompileInputs.cache
+C:\Users\38279457801\Desktop\Backend_exemplos\obj\Debug\net7.0\Backend_exemplos.dll
+C:\Users\38279457801\Desktop\Backend_exemplos\obj\Debug\net7.0\refint\Backend_exemplos.dll
+C:\Users\38279457801\Desktop\Backend_exemplos\obj\Debug\net7.0\Backend_exemplos.pdb
+C:\Users\38279457801\Desktop\Backend_exemplos\obj\Debug\net7.0\Backend_exemplos.genruntimeconfig.cache
+C:\Users\38279457801\Desktop\Backend_exemplos\obj\Debug\net7.0\ref\Backend_exemplos.dll

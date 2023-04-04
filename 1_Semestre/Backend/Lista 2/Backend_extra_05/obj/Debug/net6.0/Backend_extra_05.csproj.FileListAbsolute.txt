@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Backend_extra_05\obj\Debug\net6.0\Backend_extra_05.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Backend_extra_05\obj\Debug\net6.0\Backend_extra_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Backend_extra_05\obj\Debug\net6.0\Backend_extra_05.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Backend_extra_05\obj\Debug\net6.0\Backend_extra_05.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Backend_extra_05\obj\Debug\net6.0\Backend_extra_05.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Backend_extra_05\bin\Debug\net6.0\Backend_extra_05.exe
+C:\Users\BAPTI\Desktop\Backend_extra_05\bin\Debug\net6.0\Backend_extra_05.deps.json
+C:\Users\BAPTI\Desktop\Backend_extra_05\bin\Debug\net6.0\Backend_extra_05.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Backend_extra_05\bin\Debug\net6.0\Backend_extra_05.dll
+C:\Users\BAPTI\Desktop\Backend_extra_05\bin\Debug\net6.0\Backend_extra_05.pdb
+C:\Users\BAPTI\Desktop\Backend_extra_05\obj\Debug\net6.0\Backend_extra_05.dll
+C:\Users\BAPTI\Desktop\Backend_extra_05\obj\Debug\net6.0\refint\Backend_extra_05.dll
+C:\Users\BAPTI\Desktop\Backend_extra_05\obj\Debug\net6.0\Backend_extra_05.pdb
+C:\Users\BAPTI\Desktop\Backend_extra_05\obj\Debug\net6.0\Backend_extra_05.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Backend_extra_05\obj\Debug\net6.0\ref\Backend_extra_05.dll
