@@ -1,0 +1,15 @@
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Backend_repeticao\obj\Debug\net7.0\Backend_repeticao.csproj.AssemblyReference.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Backend_repeticao\obj\Debug\net7.0\Backend_repeticao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Backend_repeticao\obj\Debug\net7.0\Backend_repeticao.AssemblyInfoInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Backend_repeticao\obj\Debug\net7.0\Backend_repeticao.AssemblyInfo.cs
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Backend_repeticao\obj\Debug\net7.0\Backend_repeticao.csproj.CoreCompileInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Backend_repeticao\bin\Debug\net7.0\Backend_repeticao.exe
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Backend_repeticao\bin\Debug\net7.0\Backend_repeticao.deps.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Backend_repeticao\bin\Debug\net7.0\Backend_repeticao.runtimeconfig.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Backend_repeticao\bin\Debug\net7.0\Backend_repeticao.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Backend_repeticao\bin\Debug\net7.0\Backend_repeticao.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Backend_repeticao\obj\Debug\net7.0\Backend_repeticao.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Backend_repeticao\obj\Debug\net7.0\refint\Backend_repeticao.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Backend_repeticao\obj\Debug\net7.0\Backend_repeticao.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Backend_repeticao\obj\Debug\net7.0\Backend_repeticao.genruntimeconfig.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Backend_repeticao\obj\Debug\net7.0\ref\Backend_repeticao.dll
