@@ -5,3 +5,55 @@
 // C.O número de mulheres que responderam SIM;
 // D.A porcentagem de homens que responderam NÃO entre todos os homens analisados.
 
+int masc = 0, fem = 0, sim = 0, nao = 0, mulheresSim = 0, homensNao = 0;
+
+for (var i = 1; i < 11; i++)
+{
+Console.WriteLine($"Pessoa {i}");
+
+Console.WriteLine(@$"Informe seu sexo:
+m - masculino;
+f - feminino;
+");
+char sexo = char.Parse(Console.ReadLine()!.ToLower());
+
+Console.WriteLine(@$"Gostou do produto: 
+s - sim;
+n - não;
+");
+char resposta = char.Parse(Console.ReadLine()!.ToLower());
+
+if ((sexo == 'm') && (resposta == 's'))
+{
+    masc++;
+    sim++;
+}
+
+else if ((sexo == 'm') && (resposta =='n'))
+{
+    masc++;
+    nao++;
+    homensNao++;
+}
+
+else if ((sexo == 'f') && (resposta == 's'))
+{
+    fem++;
+    sim++;
+    mulheresSim++;
+}
+
+else if ((sexo == 'f') && (resposta =='n'))
+{
+    fem++;
+    nao++;
+}
+
+}
+
+Console.WriteLine(@$"Resultado da pesquisa:
+Sim: {sim}
+Não: {nao}
+Mulheres que gostaram do produto: {mulheresSim}
+Porcentagem de homens que não gostaram do produto: {homensNao * 100 / masc} %
+");
