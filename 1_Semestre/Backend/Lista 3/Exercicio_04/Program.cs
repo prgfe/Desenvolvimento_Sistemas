@@ -7,7 +7,7 @@
 
 int masc = 0, fem = 0, sim = 0, nao = 0, mulheresSim = 0, homensNao = 0;
 
-for (var i = 1; i < 11; i++)
+for (var i = 1; i <= 10; i++)
 {
 Console.WriteLine($"Pessoa {i}");
 
@@ -51,9 +51,11 @@ else if ((sexo == 'f') && (resposta =='n'))
 
 }
 
+float porcentagem = (float)homensNao / (float)masc*100;
+
 Console.WriteLine(@$"Resultado da pesquisa:
 Sim: {sim}
 Não: {nao}
 Mulheres que gostaram do produto: {mulheresSim}
-Porcentagem de homens que não gostaram do produto: {homensNao * 100 / masc} %
+Porcentagem de homens que não gostaram do produto: {porcentagem} %
 ");
