@@ -5,11 +5,11 @@
 
 Console.WriteLine($"Programa de tabuada.");
 
-for (var i = 1; i < 11; i++)
+for (var i = 1; i <= 10; i++)
 {
     Console.WriteLine($"Tabuada do {i}");
     
-    for (var num = 1; num < 11; num++)
+    for (var num = 1; num <= 10; num++)
     {
     Console.WriteLine($"{num} x {i} = {num * i}");
     }
