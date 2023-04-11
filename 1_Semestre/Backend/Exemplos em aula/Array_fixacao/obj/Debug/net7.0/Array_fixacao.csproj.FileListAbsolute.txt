@@ -1,0 +1,15 @@
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_fixacao\bin\Debug\net7.0\Array_fixacao.exe
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_fixacao\bin\Debug\net7.0\Array_fixacao.deps.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_fixacao\bin\Debug\net7.0\Array_fixacao.runtimeconfig.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_fixacao\bin\Debug\net7.0\Array_fixacao.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_fixacao\bin\Debug\net7.0\Array_fixacao.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_fixacao\obj\Debug\net7.0\Array_fixacao.csproj.AssemblyReference.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_fixacao\obj\Debug\net7.0\Array_fixacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_fixacao\obj\Debug\net7.0\Array_fixacao.AssemblyInfoInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_fixacao\obj\Debug\net7.0\Array_fixacao.AssemblyInfo.cs
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_fixacao\obj\Debug\net7.0\Array_fixacao.csproj.CoreCompileInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_fixacao\obj\Debug\net7.0\Array_fixacao.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_fixacao\obj\Debug\net7.0\refint\Array_fixacao.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_fixacao\obj\Debug\net7.0\Array_fixacao.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_fixacao\obj\Debug\net7.0\Array_fixacao.genruntimeconfig.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_fixacao\obj\Debug\net7.0\ref\Array_fixacao.dll
