@@ -46,8 +46,10 @@ for (var i = 0; i < 5; i++)
     Console.ForegroundColor = ConsoleColor.Blue;
     Console.WriteLine($"O {i + 1}º nome é: {nomes[i]} ");
     Console.ResetColor();
-
+    
     Console.ForegroundColor = ConsoleColor.Green;
     Console.WriteLine($"A {i + 1}ª idade é: {idades[i]} ");
     Console.ResetColor();
+
+    Console.WriteLine($"");
 }

@@ -1,0 +1,15 @@
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions\bin\Debug\net7.0\Functions.exe
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions\bin\Debug\net7.0\Functions.deps.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions\bin\Debug\net7.0\Functions.runtimeconfig.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions\bin\Debug\net7.0\Functions.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions\bin\Debug\net7.0\Functions.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions\obj\Debug\net7.0\Functions.csproj.AssemblyReference.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions\obj\Debug\net7.0\Functions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions\obj\Debug\net7.0\Functions.AssemblyInfoInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions\obj\Debug\net7.0\Functions.AssemblyInfo.cs
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions\obj\Debug\net7.0\Functions.csproj.CoreCompileInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions\obj\Debug\net7.0\Functions.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions\obj\Debug\net7.0\refint\Functions.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions\obj\Debug\net7.0\Functions.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions\obj\Debug\net7.0\Functions.genruntimeconfig.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions\obj\Debug\net7.0\ref\Functions.dll

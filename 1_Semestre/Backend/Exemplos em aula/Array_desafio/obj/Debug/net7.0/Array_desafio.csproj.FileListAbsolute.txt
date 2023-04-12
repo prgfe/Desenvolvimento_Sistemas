@@ -1,0 +1,15 @@
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_desafio\bin\Debug\net7.0\Array_desafio.exe
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_desafio\bin\Debug\net7.0\Array_desafio.deps.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_desafio\bin\Debug\net7.0\Array_desafio.runtimeconfig.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_desafio\bin\Debug\net7.0\Array_desafio.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_desafio\bin\Debug\net7.0\Array_desafio.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_desafio\obj\Debug\net7.0\Array_desafio.csproj.AssemblyReference.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_desafio\obj\Debug\net7.0\Array_desafio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_desafio\obj\Debug\net7.0\Array_desafio.AssemblyInfoInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_desafio\obj\Debug\net7.0\Array_desafio.AssemblyInfo.cs
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_desafio\obj\Debug\net7.0\Array_desafio.csproj.CoreCompileInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_desafio\obj\Debug\net7.0\Array_desafio.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_desafio\obj\Debug\net7.0\refint\Array_desafio.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_desafio\obj\Debug\net7.0\Array_desafio.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_desafio\obj\Debug\net7.0\Array_desafio.genruntimeconfig.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Array_desafio\obj\Debug\net7.0\ref\Array_desafio.dll
