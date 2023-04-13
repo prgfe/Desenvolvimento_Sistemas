@@ -1,0 +1,15 @@
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions_extra\bin\Debug\net7.0\Functions_extra.exe
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions_extra\bin\Debug\net7.0\Functions_extra.deps.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions_extra\bin\Debug\net7.0\Functions_extra.runtimeconfig.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions_extra\bin\Debug\net7.0\Functions_extra.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions_extra\bin\Debug\net7.0\Functions_extra.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions_extra\obj\Debug\net7.0\Functions_extra.csproj.AssemblyReference.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions_extra\obj\Debug\net7.0\Functions_extra.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions_extra\obj\Debug\net7.0\Functions_extra.AssemblyInfoInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions_extra\obj\Debug\net7.0\Functions_extra.AssemblyInfo.cs
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions_extra\obj\Debug\net7.0\Functions_extra.csproj.CoreCompileInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions_extra\obj\Debug\net7.0\Functions_extra.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions_extra\obj\Debug\net7.0\refint\Functions_extra.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions_extra\obj\Debug\net7.0\Functions_extra.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions_extra\obj\Debug\net7.0\Functions_extra.genruntimeconfig.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Functions_extra\obj\Debug\net7.0\ref\Functions_extra.dll
