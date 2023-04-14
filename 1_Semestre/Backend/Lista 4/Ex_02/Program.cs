@@ -18,6 +18,8 @@
 
 // Resultado
 
+using System.Globalization;
+
 double qtde = 0d, gas = 5.30d, alc = 4.90d, tres = 0.03d, quat = 0.04d, cinc = 0.05d, seis = 0.06d, preco = 0d;
 
 Console.WriteLine(@$"Informe o tipo de combustível:
@@ -41,7 +43,6 @@ switch (tipo)
         preco = (qtde * alc) - (qtde * cinc);
     }
         break;
-
     case 'G':
     if (qtde <= 20)
     {
@@ -53,11 +54,11 @@ switch (tipo)
     }
         break;
     default:
-    case ((tipo =! 'A') || (tipo =! 'G'));
+        Console.WriteLine($"Digite uma das opções fornecidas!");
         break;
 }
 
-Console.WriteLine($"O preço total é {preco} reais");
+Console.WriteLine($"O preço total é {preco.ToString("C2",CultureInfo.CurrentCulture)}");
 
 
 

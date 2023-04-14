@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_03\bin\Debug\net7.0\Ex_03.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_03\bin\Debug\net7.0\Ex_03.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_03\bin\Debug\net7.0\Ex_03.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_03\bin\Debug\net7.0\Ex_03.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_03\bin\Debug\net7.0\Ex_03.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_03\obj\Debug\net7.0\Ex_03.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_03\obj\Debug\net7.0\Ex_03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_03\obj\Debug\net7.0\Ex_03.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_03\obj\Debug\net7.0\Ex_03.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_03\obj\Debug\net7.0\Ex_03.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_03\obj\Debug\net7.0\Ex_03.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_03\obj\Debug\net7.0\refint\Ex_03.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_03\obj\Debug\net7.0\Ex_03.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_03\obj\Debug\net7.0\Ex_03.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_03\obj\Debug\net7.0\ref\Ex_03.dll
