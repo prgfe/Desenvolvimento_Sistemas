@@ -1,0 +1,15 @@
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_05\obj\Debug\net7.0\Ex_05.csproj.AssemblyReference.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_05\obj\Debug\net7.0\Ex_05.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_05\obj\Debug\net7.0\Ex_05.AssemblyInfoInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_05\obj\Debug\net7.0\Ex_05.AssemblyInfo.cs
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_05\obj\Debug\net7.0\Ex_05.csproj.CoreCompileInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_05\bin\Debug\net7.0\Ex_05.exe
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_05\bin\Debug\net7.0\Ex_05.deps.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_05\bin\Debug\net7.0\Ex_05.runtimeconfig.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_05\bin\Debug\net7.0\Ex_05.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_05\bin\Debug\net7.0\Ex_05.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_05\obj\Debug\net7.0\Ex_05.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_05\obj\Debug\net7.0\refint\Ex_05.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_05\obj\Debug\net7.0\Ex_05.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_05\obj\Debug\net7.0\Ex_05.genruntimeconfig.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Lista 4\Ex_05\obj\Debug\net7.0\ref\Ex_05.dll

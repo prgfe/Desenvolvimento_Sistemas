@@ -59,8 +59,3 @@ switch (tipo)
 }
 
 Console.WriteLine($"O preço total é {preco.ToString("C2",CultureInfo.CurrentCulture)}");
-
-
-
-
-

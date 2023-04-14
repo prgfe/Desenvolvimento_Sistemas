@@ -9,22 +9,13 @@
 
 // Mostrar maior e menor valores
 
-int maior = 0, num = 0, menor;
+int[] num = new int[10];
+Array.Sort(num);
 
-for (var i = 0; i < 4; i++)
+for (var i = 0; i < 10; i++)
 {
-    Console.WriteLine($"Informe o {i+1}º número");
-    num = int.Parse(Console.ReadLine()!);
-    maior = num;
-    menor = num;
-}
-if (num > maior)
-{
-    maior = num;
-}
-else if (num < menor)
-{
-    menor = num;
+Console.WriteLine($"Insira o {i + 1}º numero");
+num[i] = int.Parse(Console.ReadLine()!);
 }
 
-Console.WriteLine($"O maior valor é {maior} e o menor valor é {menor}");
+Console.WriteLine($"Menor {num.Min()} e maior {num.Max()}");
