@@ -13,22 +13,26 @@
 // Se corresponder ao nome, mostrar achei
 // Se não corresponder ao nome, não achei
 
-string[] lista = new string[3];
+string[] nomes = new string[10];
+
+bool nomeEncontrado = false;
+
 for (var i = 0; i < 3; i++)
 {
     Console.WriteLine($"Informe o {i + 1}º nome");
-    string nome = Console.ReadLine()!;    
+    nomes[i] = Console.ReadLine()!;    
 }
 
-Console.WriteLine($"Informe um nome: ");
-string x = Console.ReadLine()!;
+Console.WriteLine($"Informe um nome a ser buscado: ");
+string nomeBuscado = Console.ReadLine()!;
 
-
-if (lista.Contains(x))
+foreach (string nome in nomes)
 {
-    Console.WriteLine($"Achei");
+    if (nome == nomeBuscado)
+    {
+        nomeEncontrado = true;
+        break;
+    }
 }
-else
-{
-    Console.WriteLine($"Não achei");
-}
+
+Console.WriteLine(nomeEncontrado ? "Achei" : "Não achei");
