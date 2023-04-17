@@ -13,7 +13,7 @@
 // Se corresponder ao nome, mostrar achei
 // Se não corresponder ao nome, não achei
 
-string[] lista = new string[10];
+string[] lista = new string[3];
 for (var i = 0; i < 3; i++)
 {
     Console.WriteLine($"Informe o {i + 1}º nome");
@@ -23,9 +23,8 @@ for (var i = 0; i < 3; i++)
 Console.WriteLine($"Informe um nome: ");
 string x = Console.ReadLine()!;
 
-bool achar = false;
 
-if (x == nome)
+if (lista.Contains(x))
 {
     Console.WriteLine($"Achei");
 }
