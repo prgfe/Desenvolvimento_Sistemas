@@ -9,29 +9,3 @@
 // Observação :  Criar ao menos uma função (Efetuar Login).
 
 // Ao cadastrar uma passagem ao final o sistema deverá perguntar se gostaria de cadastrar uma nova passagem caso contrário voltar ao menu anterior(S/N).
-
-// Login
-
-// Menu
-
-// para 5 passageiros
-// cadastrar 
-// nome
-// origem
-// destino
-// data do voo (dia, mes, ano)
-
-// Listar passagens
-
-Console.WriteLine($"Bem-vindo(a) ao sistema de cadastramento de passagens aéreas!");
-
-Console.WriteLine($"Informe o nome de usuário: ");
-string user = Console.ReadLine()!;
-
-Console.WriteLine($"Informe a senha: ");
-int senha = int.Parse(Console.ReadLine()!);
-
-while (senha != 654321)
-{
-    Console.WriteLine($"Acesso negado! Tente novamente.");
-}
