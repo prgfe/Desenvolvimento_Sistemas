@@ -10,14 +10,12 @@
 // MostrarMenu
 // Crie função(ões) para otimizar o código.
 // Incremente o que achar necessário. Utilize sua lógica e sua criatividade.
-
+using System.Globalization;
 string senha, login, escolha;
 bool senhaValida;
 string[] nome = new string[10];
 float[] preco = new float[10];
-bool[] promo = new bool[10];
-
-bool saldao = false;
+string[] resposta = new string[10];
 
 static bool Login(string senha)
 {
@@ -47,7 +45,6 @@ do
     senha = Console.ReadLine()!;
 
     senhaValida = Login(senha);
-    
 } while (senhaValida != true);
 
 do
@@ -76,16 +73,7 @@ switch (escolha)
             preco[i] = float.Parse(Console.ReadLine()!);
 
             Console.WriteLine($"Está em promoção? (s/n)");            
-            promo[i] = bool.Parse(Console.ReadLine()!);     
-
-            if (promo[i] == true)
-            {
-                Console.WriteLine($"Em promoção");                                
-            } 
-            else
-            {
-                Console.WriteLine($"Em promoção");                               
-            }       
+            resposta[i] =  Console.ReadLine()!;     
         }
     
         break;
@@ -94,10 +82,11 @@ switch (escolha)
         for (var i = 0; i < nome.Length; i++)
         {
             Console.WriteLine(@$"
-            ****Estoque****
+            ********Estoque********
             Nome: {nome[i]} 
-            Preço: {preco[i]}
-            Promoção: {promo[i]}
+            Preço: {preco[i].ToString("F2")}
+            Promoção: {resposta[i]}
+            ***********************
             ");
         }
         break;
