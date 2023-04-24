@@ -4,16 +4,16 @@
 Personagem p1 = new Personagem();
 
 Console.WriteLine($"Digite o nome do personagem: ");
-p1.nome = Console.ReadLine();
+p1.nome = Console.ReadLine()!;
 
 Console.WriteLine($"Digite a idade do personagem: ");
-p1.idade = int.Parse(Console.ReadLine());
+p1.idade = int.Parse(Console.ReadLine()!);
 
 Console.WriteLine($"Digite a armadura do presonagem: ");
-p1.armadura = Console.ReadLine();
+p1.armadura = Console.ReadLine()!;
 
 Console.WriteLine($"Digite a IA do personagem: ");
-p1.ia = Console.ReadLine();
+p1.ia = Console.ReadLine()!;
 
 // exibir o nome do objeto
 Console.WriteLine(@$"

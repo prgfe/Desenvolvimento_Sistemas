@@ -1,0 +1,15 @@
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Calculadora_POO\bin\Debug\net7.0\Calculadora_POO.exe
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Calculadora_POO\bin\Debug\net7.0\Calculadora_POO.deps.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Calculadora_POO\bin\Debug\net7.0\Calculadora_POO.runtimeconfig.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Calculadora_POO\bin\Debug\net7.0\Calculadora_POO.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Calculadora_POO\bin\Debug\net7.0\Calculadora_POO.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Calculadora_POO\obj\Debug\net7.0\Calculadora_POO.csproj.AssemblyReference.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Calculadora_POO\obj\Debug\net7.0\Calculadora_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Calculadora_POO\obj\Debug\net7.0\Calculadora_POO.AssemblyInfoInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Calculadora_POO\obj\Debug\net7.0\Calculadora_POO.AssemblyInfo.cs
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Calculadora_POO\obj\Debug\net7.0\Calculadora_POO.csproj.CoreCompileInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Calculadora_POO\obj\Debug\net7.0\Calculadora_POO.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Calculadora_POO\obj\Debug\net7.0\refint\Calculadora_POO.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Calculadora_POO\obj\Debug\net7.0\Calculadora_POO.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Calculadora_POO\obj\Debug\net7.0\Calculadora_POO.genruntimeconfig.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Calculadora_POO\obj\Debug\net7.0\ref\Calculadora_POO.dll
