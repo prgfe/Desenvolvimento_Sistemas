@@ -44,15 +44,15 @@ novoAluno.Bolsista = Bolsista == "s" ? true : false;
 
 // novoAluno.Bolsista = (resposta == "s"); mais avançado.
 
-if (Bolsista == "s")
-{
-    novoAluno.Bolsista = true;
-    Console.WriteLine($"Aluno bolsista.");
-}
-else
-{
-    novoAluno.Bolsista = false;
-}
+// if (Bolsista == "s")
+// {
+//     novoAluno.Bolsista = true;
+//     Console.WriteLine($"Aluno bolsista.");
+// }
+// else
+// {
+//     novoAluno.Bolsista = false;
+// }
 
 string opcao;
 
@@ -64,7 +64,8 @@ Console.WriteLine(@$"
 [2] Valor da mensalidade
 [3] Sair
 ");
- opcao = Console.ReadLine();
+
+opcao = Console.ReadLine();
 
 switch (opcao)
 {
@@ -75,9 +76,11 @@ switch (opcao)
     case "2":
         Console.WriteLine($"O valor da mensalidade é: {novoAluno.VerMensalidade}");
     break;
+
     case "0":
         Console.WriteLine($"Fim");
-    break;    
+    break;  
+      
     default:
         Console.WriteLine($"Opção inválida!");
     break;

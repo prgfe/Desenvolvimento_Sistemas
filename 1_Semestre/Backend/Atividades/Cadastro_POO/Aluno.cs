@@ -30,7 +30,6 @@ namespace Cadastro_POO
         // }
         public float VerMensalidade()
         {
-
             // Condicional
             // If encadeado (else if)
         float valor;
@@ -48,6 +47,5 @@ namespace Cadastro_POO
         }
             return valor;
         }
-
     }
 }

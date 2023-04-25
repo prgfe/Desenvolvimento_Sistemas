@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Celular_POO\bin\Debug\net7.0\Celular_POO.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Celular_POO\bin\Debug\net7.0\Celular_POO.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Celular_POO\bin\Debug\net7.0\Celular_POO.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Celular_POO\bin\Debug\net7.0\Celular_POO.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Celular_POO\bin\Debug\net7.0\Celular_POO.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Celular_POO\obj\Debug\net7.0\Celular_POO.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Celular_POO\obj\Debug\net7.0\Celular_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Celular_POO\obj\Debug\net7.0\Celular_POO.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Celular_POO\obj\Debug\net7.0\Celular_POO.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Celular_POO\obj\Debug\net7.0\Celular_POO.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Celular_POO\obj\Debug\net7.0\Celular_POO.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Celular_POO\obj\Debug\net7.0\refint\Celular_POO.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Celular_POO\obj\Debug\net7.0\Celular_POO.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Celular_POO\obj\Debug\net7.0\Celular_POO.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Celular_POO\obj\Debug\net7.0\ref\Celular_POO.dll

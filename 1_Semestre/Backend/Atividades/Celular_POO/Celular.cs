@@ -11,24 +11,24 @@ namespace Celular_POO
 
         public bool Ligado;
 
-        public string Ligar()
+        public void Ligar()
         {
-            return Console.WriteLine($"Ligando...");
+           Console.WriteLine($"Ligando...");
         }
 
-        public string Desligar()
+        public void Desligar()
         {
-            return Console.WriteLine($"Desligando...");
+           Console.WriteLine($"Desligando...");
         }
 
-        public string Ligacao()
+        public void Ligacao()
         {
-            return Console.WriteLine($"Ligando..."); 
+            Console.WriteLine($"Ligando para..."); 
         }
 
-        public string Mensagem()
+        public void Mensagem()
         {
-            return Console.WriteLine($"Enviando mensagem...");
+            Console.WriteLine($"Enviando mensagem...");
         }
     }
 }
