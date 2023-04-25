@@ -11,45 +11,75 @@
 // outros casos a mensalidade será integral
 // Receba os dados do cadastro via console e crie um menu para o usuário escolher se quer visualizar a média ou o valor da mensalidade.
 
+// CTRL+.= using nomedapasta.
+
 // Acrescente o que achar necessário.
 
+using Cadastro_POO;
+
+Aluno novoAluno = new Aluno();
+
 Console.WriteLine($"Digite o nome do aluno: ");
-string nome = Console.ReadLine();
+novoAluno.Nome = Console.ReadLine();
 
 Console.WriteLine($"Digite o curso: ");
-string curso = Console.ReadLine();
+novoAluno.Curso = Console.ReadLine();
 
 Console.WriteLine($"Digite a idade: ");
-int idade = int.Parse(Console.ReadLine());
+novoAluno.Idade = Console.ReadLine();
 
 Console.WriteLine($"Digite o RG: ");
-int rg = int.Parse(Console.ReadLine());
-
-Console.WriteLine($"É bolsista? (s/n)");
-string resposta = Console.ReadLine();
+novoAluno.Rg = Console.ReadLine();
 
 Console.WriteLine($"Digite a média final: ");
-float media = float.Parse(Console.ReadLine());
+novoAluno.MediaFinal = float.Parse(Console.ReadLine());
 
-Console.WriteLine($"Digite o calor da mensalidade: ");
-float mensalidade = float.Parse(Console.ReadLine());
+Console.WriteLine($"Digite o valor da mensalidade: ");
+novoAluno.ValorMensalidade = float.Parse(Console.ReadLine());
 
-bool bolsista = false;
-float calculo;
+Console.WriteLine($"É bolsista? (s/n)");
+string Bolsista = Console.ReadLine().ToLower();
 
-switch (resposta)
+novoAluno.Bolsista = Bolsista == "s" ? true : false;
+
+// novoAluno.Bolsista = (resposta == "s"); mais avançado.
+
+if (Bolsista == "s")
 {
-    case "s":
-    bolsista = true;
-    if (media >= 8)
-    {
-        calculo = mensalidade * 0.50f;
-    }
-    else if ((media >= 6) && (media < 8))
-    {
-        calculo = mensalidade * 0.30f;
-    }
-        break;
-    default:
-        break;
+    novoAluno.Bolsista = true;
+    Console.WriteLine($"Aluno bolsista.");
 }
+else
+{
+    novoAluno.Bolsista = false;
+}
+
+string opcao;
+
+do
+{
+Console.WriteLine($"Menu");
+Console.WriteLine(@$"
+[1] Média do aluno
+[2] Valor da mensalidade
+[3] Sair
+");
+ opcao = Console.ReadLine();
+
+switch (opcao)
+{
+    case "1":
+        Console.WriteLine($"A média do aluno {novoAluno.Nome} é: {novoAluno.VerMediaFinal}");
+        break;
+
+    case "2":
+        Console.WriteLine($"O valor da mensalidade é: {novoAluno.VerMensalidade}");
+    break;
+    case "0":
+        Console.WriteLine($"Fim");
+    break;    
+    default:
+        Console.WriteLine($"Opção inválida!");
+    break;
+}
+} while (opcao != "0");

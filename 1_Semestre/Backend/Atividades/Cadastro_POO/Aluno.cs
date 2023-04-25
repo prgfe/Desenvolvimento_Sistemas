@@ -1,20 +1,53 @@
 
 namespace Cadastro_POO
 {
+    // Classe
     public class Aluno
     {
-        public string nome;
+        // atributos (características) ou propriedades. Abstração: trazer apenas características relevantes para o projeto.
+        public string Nome;
 
-        public string curso;
+        public string Curso;
 
-        public int idade;
+        public string Idade;
 
-        public int rg;
+        public string Rg;
 
-        public bool bolsista;
+        public bool Bolsista;
+        
+        public float MediaFinal;
 
-        public float media;
+        public float ValorMensalidade;
+        // métodos (comportamentos) ou funções
+        public float VerMediaFinal()
+        {
+            return this.MediaFinal;
+        }
 
-        public float mensalidade;
+        // public void VerMediaFinal()
+        // {
+        //     Console.WriteLine($"{this.MediaFinal}"); 
+        // }
+        public float VerMensalidade()
+        {
+
+            // Condicional
+            // If encadeado (else if)
+        float valor;
+        if (this.Bolsista == true && this.MediaFinal >= 8)
+        {
+            valor = this.ValorMensalidade * 0.5F;
+        }
+        else if (this.Bolsista == true && this.MediaFinal > 6)
+        {
+            valor = this.ValorMensalidade * 0.7f;
+        }
+        else
+        {
+            valor = ValorMensalidade;
+        }
+            return valor;
+        }
+
     }
 }
