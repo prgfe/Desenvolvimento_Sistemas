@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Placar_Futebol\bin\Debug\net7.0\Placar_Futebol.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Placar_Futebol\bin\Debug\net7.0\Placar_Futebol.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Placar_Futebol\bin\Debug\net7.0\Placar_Futebol.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Placar_Futebol\bin\Debug\net7.0\Placar_Futebol.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Placar_Futebol\bin\Debug\net7.0\Placar_Futebol.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Placar_Futebol\obj\Debug\net7.0\Placar_Futebol.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Placar_Futebol\obj\Debug\net7.0\Placar_Futebol.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Placar_Futebol\obj\Debug\net7.0\Placar_Futebol.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Placar_Futebol\obj\Debug\net7.0\Placar_Futebol.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Placar_Futebol\obj\Debug\net7.0\Placar_Futebol.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Placar_Futebol\obj\Debug\net7.0\Placar_Futebol.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Placar_Futebol\obj\Debug\net7.0\refint\Placar_Futebol.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Placar_Futebol\obj\Debug\net7.0\Placar_Futebol.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Placar_Futebol\obj\Debug\net7.0\Placar_Futebol.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Placar_Futebol\obj\Debug\net7.0\ref\Placar_Futebol.dll

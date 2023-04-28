@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Validade_Senha/1.0.0": {
+        "runtime": {
+          "Validade_Senha.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Validade_Senha/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

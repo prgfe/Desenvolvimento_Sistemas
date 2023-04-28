@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Salario_Orcamento\bin\Debug\net7.0\Salario_Orcamento.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Salario_Orcamento\bin\Debug\net7.0\Salario_Orcamento.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Salario_Orcamento\bin\Debug\net7.0\Salario_Orcamento.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Salario_Orcamento\bin\Debug\net7.0\Salario_Orcamento.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Salario_Orcamento\bin\Debug\net7.0\Salario_Orcamento.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Salario_Orcamento\obj\Debug\net7.0\Salario_Orcamento.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Salario_Orcamento\obj\Debug\net7.0\Salario_Orcamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Salario_Orcamento\obj\Debug\net7.0\Salario_Orcamento.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Salario_Orcamento\obj\Debug\net7.0\Salario_Orcamento.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Salario_Orcamento\obj\Debug\net7.0\Salario_Orcamento.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Salario_Orcamento\obj\Debug\net7.0\Salario_Orcamento.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Salario_Orcamento\obj\Debug\net7.0\refint\Salario_Orcamento.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Salario_Orcamento\obj\Debug\net7.0\Salario_Orcamento.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Salario_Orcamento\obj\Debug\net7.0\Salario_Orcamento.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Salario_Orcamento\obj\Debug\net7.0\ref\Salario_Orcamento.dll
