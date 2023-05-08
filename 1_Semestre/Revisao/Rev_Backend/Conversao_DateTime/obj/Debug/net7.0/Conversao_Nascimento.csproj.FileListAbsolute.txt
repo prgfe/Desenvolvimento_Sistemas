@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Conversao_Nascimento\obj\Debug\net7.0\Conversao_Nascimento.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Conversao_Nascimento\obj\Debug\net7.0\Conversao_Nascimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Conversao_Nascimento\obj\Debug\net7.0\Conversao_Nascimento.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Conversao_Nascimento\obj\Debug\net7.0\Conversao_Nascimento.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Conversao_Nascimento\obj\Debug\net7.0\Conversao_Nascimento.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Conversao_Nascimento\bin\Debug\net7.0\Conversao_Nascimento.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Conversao_Nascimento\bin\Debug\net7.0\Conversao_Nascimento.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Conversao_Nascimento\bin\Debug\net7.0\Conversao_Nascimento.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Conversao_Nascimento\bin\Debug\net7.0\Conversao_Nascimento.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Conversao_Nascimento\bin\Debug\net7.0\Conversao_Nascimento.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Conversao_Nascimento\obj\Debug\net7.0\Conversao_Nascimento.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Conversao_Nascimento\obj\Debug\net7.0\refint\Conversao_Nascimento.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Conversao_Nascimento\obj\Debug\net7.0\Conversao_Nascimento.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Conversao_Nascimento\obj\Debug\net7.0\Conversao_Nascimento.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Conversao_Nascimento\obj\Debug\net7.0\ref\Conversao_Nascimento.dll
