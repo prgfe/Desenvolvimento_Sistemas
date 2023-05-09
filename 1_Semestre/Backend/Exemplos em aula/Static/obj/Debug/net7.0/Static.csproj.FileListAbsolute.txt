@@ -1,0 +1,15 @@
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Static\bin\Debug\net7.0\Static.exe
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Static\bin\Debug\net7.0\Static.deps.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Static\bin\Debug\net7.0\Static.runtimeconfig.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Static\bin\Debug\net7.0\Static.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Static\bin\Debug\net7.0\Static.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Static\obj\Debug\net7.0\Static.csproj.AssemblyReference.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Static\obj\Debug\net7.0\Static.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Static\obj\Debug\net7.0\Static.AssemblyInfoInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Static\obj\Debug\net7.0\Static.AssemblyInfo.cs
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Static\obj\Debug\net7.0\Static.csproj.CoreCompileInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Static\obj\Debug\net7.0\Static.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Static\obj\Debug\net7.0\refint\Static.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Static\obj\Debug\net7.0\Static.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Static\obj\Debug\net7.0\Static.genruntimeconfig.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Exemplos em aula\Static\obj\Debug\net7.0\ref\Static.dll
