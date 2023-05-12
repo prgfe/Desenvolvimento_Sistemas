@@ -2,26 +2,20 @@ namespace Jogador_POO
 {
     public abstract class Jogador
     {
-        public string Nome;
+        public string Nome { get; set; }
+        public int Nascimento { get; set; }
+        public string Nacionalidade { get; set; }
+        public float Altura { get; set; }
+        public float Peso { get; set; }
 
-        public string Nascimento;
-
-        public string Nacionalidade;
-
-        public float Altura;
-
-        public float Peso;
-
-        public void Imprimir() { }
-
-        public CalcularIdade()
+        public void DadosJogador(string nome, int nascimento, string nacionalidade, float altura, float peso)
         {
-            return;
-        }
-
-        public CalcularAposentadoria()
-        {
-            return;
+            Nome = nome;
+            Nascimento = nascimento;
+            Nacionalidade = nacionalidade;
+            Altura = altura;
+            Peso = peso;
         }
     }
+
 }
