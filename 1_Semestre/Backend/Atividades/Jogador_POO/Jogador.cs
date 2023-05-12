@@ -16,6 +16,11 @@ namespace Jogador_POO
             Altura = altura;
             Peso = peso;
         }
-    }
 
+        public void DadosJogador()
+        {
+            Console.WriteLine($"{}");
+
+        }
+    }
 }
