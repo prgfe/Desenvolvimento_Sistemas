@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Personagem_POO\bin\Debug\net7.0\Personagem_POO.exe
+C:\Users\BAPTI\Desktop\Personagem_POO\bin\Debug\net7.0\Personagem_POO.deps.json
+C:\Users\BAPTI\Desktop\Personagem_POO\bin\Debug\net7.0\Personagem_POO.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Personagem_POO\bin\Debug\net7.0\Personagem_POO.dll
+C:\Users\BAPTI\Desktop\Personagem_POO\bin\Debug\net7.0\Personagem_POO.pdb
+C:\Users\BAPTI\Desktop\Personagem_POO\obj\Debug\net7.0\Personagem_POO.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Personagem_POO\obj\Debug\net7.0\Personagem_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Personagem_POO\obj\Debug\net7.0\Personagem_POO.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Personagem_POO\obj\Debug\net7.0\Personagem_POO.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Personagem_POO\obj\Debug\net7.0\Personagem_POO.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Personagem_POO\obj\Debug\net7.0\Personagem_POO.dll
+C:\Users\BAPTI\Desktop\Personagem_POO\obj\Debug\net7.0\refint\Personagem_POO.dll
+C:\Users\BAPTI\Desktop\Personagem_POO\obj\Debug\net7.0\Personagem_POO.pdb
+C:\Users\BAPTI\Desktop\Personagem_POO\obj\Debug\net7.0\Personagem_POO.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Personagem_POO\obj\Debug\net7.0\ref\Personagem_POO.dll
