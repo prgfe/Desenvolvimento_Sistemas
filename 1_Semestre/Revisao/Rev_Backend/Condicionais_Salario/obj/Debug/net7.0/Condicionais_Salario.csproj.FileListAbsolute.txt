@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Salario\bin\Debug\net7.0\Condicionais_Salario.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Salario\bin\Debug\net7.0\Condicionais_Salario.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Salario\bin\Debug\net7.0\Condicionais_Salario.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Salario\bin\Debug\net7.0\Condicionais_Salario.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Salario\bin\Debug\net7.0\Condicionais_Salario.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Salario\obj\Debug\net7.0\Condicionais_Salario.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Salario\obj\Debug\net7.0\Condicionais_Salario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Salario\obj\Debug\net7.0\Condicionais_Salario.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Salario\obj\Debug\net7.0\Condicionais_Salario.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Salario\obj\Debug\net7.0\Condicionais_Salario.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Salario\obj\Debug\net7.0\Condicionais_Salario.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Salario\obj\Debug\net7.0\refint\Condicionais_Salario.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Salario\obj\Debug\net7.0\Condicionais_Salario.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Salario\obj\Debug\net7.0\Condicionais_Salario.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Salario\obj\Debug\net7.0\ref\Condicionais_Salario.dll

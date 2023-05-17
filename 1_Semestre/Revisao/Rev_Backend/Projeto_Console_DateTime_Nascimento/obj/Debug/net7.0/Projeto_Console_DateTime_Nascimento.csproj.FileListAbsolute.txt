@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Projeto_Console_DateTime_Nascimento\bin\Debug\net7.0\Projeto_Console_DateTime_Nascimento.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Projeto_Console_DateTime_Nascimento\bin\Debug\net7.0\Projeto_Console_DateTime_Nascimento.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Projeto_Console_DateTime_Nascimento\bin\Debug\net7.0\Projeto_Console_DateTime_Nascimento.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Projeto_Console_DateTime_Nascimento\bin\Debug\net7.0\Projeto_Console_DateTime_Nascimento.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Projeto_Console_DateTime_Nascimento\bin\Debug\net7.0\Projeto_Console_DateTime_Nascimento.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Projeto_Console_DateTime_Nascimento\obj\Debug\net7.0\Projeto_Console_DateTime_Nascimento.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Projeto_Console_DateTime_Nascimento\obj\Debug\net7.0\Projeto_Console_DateTime_Nascimento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Projeto_Console_DateTime_Nascimento\obj\Debug\net7.0\Projeto_Console_DateTime_Nascimento.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Projeto_Console_DateTime_Nascimento\obj\Debug\net7.0\Projeto_Console_DateTime_Nascimento.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Projeto_Console_DateTime_Nascimento\obj\Debug\net7.0\Projeto_Console_DateTime_Nascimento.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Projeto_Console_DateTime_Nascimento\obj\Debug\net7.0\Projeto_Console_DateTime_Nascimento.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Projeto_Console_DateTime_Nascimento\obj\Debug\net7.0\refint\Projeto_Console_DateTime_Nascimento.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Projeto_Console_DateTime_Nascimento\obj\Debug\net7.0\Projeto_Console_DateTime_Nascimento.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Projeto_Console_DateTime_Nascimento\obj\Debug\net7.0\Projeto_Console_DateTime_Nascimento.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Projeto_Console_DateTime_Nascimento\obj\Debug\net7.0\ref\Projeto_Console_DateTime_Nascimento.dll
