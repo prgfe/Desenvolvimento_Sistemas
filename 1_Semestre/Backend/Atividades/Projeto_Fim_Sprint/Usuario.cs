@@ -12,10 +12,25 @@ namespace Projeto_Fim_Sprint
 
         public DateTime DataCadastro { get; set; }
 
-        // public string CadastrarUsuario() { }
+        public Usuario()
+        {
+            Cadastrar();
+        }
 
-        // public string DeletarUsuario() { }
+        public void Cadastrar()
+        {
+            this.Nome = "Felipe";
+            this.Email = "admin@email.com";
+            this.Senha = "1234";
+            this.DataCadastro = DateTime.Now;
+        }
 
-        // Usuario user = new Usuario();
+        public void Deletar()
+        {
+            this.Nome = "";
+            this.Email = "";
+            this.Senha = "";
+            this.DataCadastro = DateTime.Parse("0000-00-00T00:00:00");
+        }
     }
 }

@@ -8,15 +8,16 @@ namespace Projeto_Fim_Sprint
 
         public DateTime DataCadastro { get; set; }
 
-        // // public CadastrarMarca()
-        // {
-        //     Console.WriteLine($"Insira a marca do produto: ");
-        //     int marca = int.Parse(Console.ReadLine());
-        // }
+        List<Marca> listaMarcas = new List<Marca>();
 
-        List<Marca> marcas = new List<Marca>();
+        public Marca Cadastrar()
+        {
+            Marca novaMarca = new Marca();
+            return novaMarca;
+        }
 
-        Marca m = new Marca();
-        // m.Nome = "Nike"
+        public void Listar() { }
+
+        public void Deletar(int codigo) { }
     }
 }

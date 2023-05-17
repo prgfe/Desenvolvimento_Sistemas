@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Condicionais_Triangulo/1.0.0": {
+        "runtime": {
+          "Condicionais_Triangulo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Condicionais_Triangulo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

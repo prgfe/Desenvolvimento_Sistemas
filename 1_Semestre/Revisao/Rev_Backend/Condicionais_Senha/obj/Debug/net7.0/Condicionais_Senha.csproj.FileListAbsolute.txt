@@ -1,0 +1,15 @@
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Senha\bin\Debug\net7.0\Condicionais_Senha.exe
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Senha\bin\Debug\net7.0\Condicionais_Senha.deps.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Senha\bin\Debug\net7.0\Condicionais_Senha.runtimeconfig.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Senha\bin\Debug\net7.0\Condicionais_Senha.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Senha\bin\Debug\net7.0\Condicionais_Senha.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Senha\obj\Debug\net7.0\Condicionais_Senha.csproj.AssemblyReference.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Senha\obj\Debug\net7.0\Condicionais_Senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Senha\obj\Debug\net7.0\Condicionais_Senha.AssemblyInfoInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Senha\obj\Debug\net7.0\Condicionais_Senha.AssemblyInfo.cs
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Senha\obj\Debug\net7.0\Condicionais_Senha.csproj.CoreCompileInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Senha\obj\Debug\net7.0\Condicionais_Senha.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Senha\obj\Debug\net7.0\refint\Condicionais_Senha.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Senha\obj\Debug\net7.0\Condicionais_Senha.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Senha\obj\Debug\net7.0\Condicionais_Senha.genruntimeconfig.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Senha\obj\Debug\net7.0\ref\Condicionais_Senha.dll

@@ -1,0 +1,15 @@
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Triangulo\bin\Debug\net7.0\Condicionais_Triangulo.exe
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Triangulo\bin\Debug\net7.0\Condicionais_Triangulo.deps.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Triangulo\bin\Debug\net7.0\Condicionais_Triangulo.runtimeconfig.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Triangulo\bin\Debug\net7.0\Condicionais_Triangulo.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Triangulo\bin\Debug\net7.0\Condicionais_Triangulo.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Triangulo\obj\Debug\net7.0\Condicionais_Triangulo.csproj.AssemblyReference.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Triangulo\obj\Debug\net7.0\Condicionais_Triangulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Triangulo\obj\Debug\net7.0\Condicionais_Triangulo.AssemblyInfoInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Triangulo\obj\Debug\net7.0\Condicionais_Triangulo.AssemblyInfo.cs
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Triangulo\obj\Debug\net7.0\Condicionais_Triangulo.csproj.CoreCompileInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Triangulo\obj\Debug\net7.0\Condicionais_Triangulo.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Triangulo\obj\Debug\net7.0\refint\Condicionais_Triangulo.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Triangulo\obj\Debug\net7.0\Condicionais_Triangulo.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Triangulo\obj\Debug\net7.0\Condicionais_Triangulo.genruntimeconfig.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Triangulo\obj\Debug\net7.0\ref\Condicionais_Triangulo.dll

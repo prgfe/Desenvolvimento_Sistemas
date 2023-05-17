@@ -1,3 +1,3 @@
 ﻿using Projeto_Fim_Sprint;
 
-Login login() { }
+Login app = new Login();
