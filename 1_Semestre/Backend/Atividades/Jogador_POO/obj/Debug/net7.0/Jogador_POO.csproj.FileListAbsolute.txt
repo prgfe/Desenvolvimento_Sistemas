@@ -1,0 +1,15 @@
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Jogador_POO\obj\Debug\net7.0\Jogador_POO.csproj.AssemblyReference.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Jogador_POO\obj\Debug\net7.0\Jogador_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Jogador_POO\obj\Debug\net7.0\Jogador_POO.AssemblyInfoInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Jogador_POO\obj\Debug\net7.0\Jogador_POO.AssemblyInfo.cs
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Jogador_POO\obj\Debug\net7.0\Jogador_POO.csproj.CoreCompileInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Jogador_POO\bin\Debug\net7.0\Jogador_POO.exe
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Jogador_POO\bin\Debug\net7.0\Jogador_POO.deps.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Jogador_POO\bin\Debug\net7.0\Jogador_POO.runtimeconfig.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Jogador_POO\bin\Debug\net7.0\Jogador_POO.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Jogador_POO\bin\Debug\net7.0\Jogador_POO.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Jogador_POO\obj\Debug\net7.0\Jogador_POO.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Jogador_POO\obj\Debug\net7.0\refint\Jogador_POO.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Jogador_POO\obj\Debug\net7.0\Jogador_POO.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Jogador_POO\obj\Debug\net7.0\Jogador_POO.genruntimeconfig.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Jogador_POO\obj\Debug\net7.0\ref\Jogador_POO.dll
