@@ -7,5 +7,5 @@ build_property.InvariantGlobalization =
 build_property.PlatformNeutralAssembly = 
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
-build_property.RootNamespace = Condicionais_Senha
-build_property.ProjectDir = c:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Senha\
+build_property.RootNamespace = Condicionais_Aluno_Frequencia
+build_property.ProjectDir = C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Aluno_Frequencia\

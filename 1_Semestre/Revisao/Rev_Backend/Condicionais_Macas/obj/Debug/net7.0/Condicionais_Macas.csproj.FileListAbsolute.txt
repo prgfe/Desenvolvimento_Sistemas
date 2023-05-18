@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Macas\bin\Debug\net7.0\Condicionais_Macas.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Macas\bin\Debug\net7.0\Condicionais_Macas.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Macas\bin\Debug\net7.0\Condicionais_Macas.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Macas\bin\Debug\net7.0\Condicionais_Macas.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Macas\bin\Debug\net7.0\Condicionais_Macas.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Macas\obj\Debug\net7.0\Condicionais_Macas.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Macas\obj\Debug\net7.0\Condicionais_Macas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Macas\obj\Debug\net7.0\Condicionais_Macas.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Macas\obj\Debug\net7.0\Condicionais_Macas.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Macas\obj\Debug\net7.0\Condicionais_Macas.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Macas\obj\Debug\net7.0\Condicionais_Macas.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Macas\obj\Debug\net7.0\refint\Condicionais_Macas.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Macas\obj\Debug\net7.0\Condicionais_Macas.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Macas\obj\Debug\net7.0\Condicionais_Macas.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Macas\obj\Debug\net7.0\ref\Condicionais_Macas.dll

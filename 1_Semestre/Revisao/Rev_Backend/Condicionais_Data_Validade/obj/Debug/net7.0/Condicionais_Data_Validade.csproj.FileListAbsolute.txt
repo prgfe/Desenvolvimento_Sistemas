@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Data_Validade\bin\Debug\net7.0\Condicionais_Data_Validade.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Data_Validade\bin\Debug\net7.0\Condicionais_Data_Validade.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Data_Validade\bin\Debug\net7.0\Condicionais_Data_Validade.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Data_Validade\bin\Debug\net7.0\Condicionais_Data_Validade.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Data_Validade\bin\Debug\net7.0\Condicionais_Data_Validade.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Data_Validade\obj\Debug\net7.0\Condicionais_Data_Validade.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Data_Validade\obj\Debug\net7.0\Condicionais_Data_Validade.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Data_Validade\obj\Debug\net7.0\Condicionais_Data_Validade.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Data_Validade\obj\Debug\net7.0\Condicionais_Data_Validade.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Data_Validade\obj\Debug\net7.0\Condicionais_Data_Validade.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Data_Validade\obj\Debug\net7.0\Condicionais_Data_Validade.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Data_Validade\obj\Debug\net7.0\refint\Condicionais_Data_Validade.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Data_Validade\obj\Debug\net7.0\Condicionais_Data_Validade.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Data_Validade\obj\Debug\net7.0\Condicionais_Data_Validade.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Data_Validade\obj\Debug\net7.0\ref\Condicionais_Data_Validade.dll

@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Aluno_Frequencia\bin\Debug\net7.0\Condicionais_Aluno_Frequencia.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Aluno_Frequencia\bin\Debug\net7.0\Condicionais_Aluno_Frequencia.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Aluno_Frequencia\bin\Debug\net7.0\Condicionais_Aluno_Frequencia.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Aluno_Frequencia\bin\Debug\net7.0\Condicionais_Aluno_Frequencia.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Aluno_Frequencia\bin\Debug\net7.0\Condicionais_Aluno_Frequencia.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Aluno_Frequencia\obj\Debug\net7.0\Condicionais_Aluno_Frequencia.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Aluno_Frequencia\obj\Debug\net7.0\Condicionais_Aluno_Frequencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Aluno_Frequencia\obj\Debug\net7.0\Condicionais_Aluno_Frequencia.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Aluno_Frequencia\obj\Debug\net7.0\Condicionais_Aluno_Frequencia.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Aluno_Frequencia\obj\Debug\net7.0\Condicionais_Aluno_Frequencia.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Aluno_Frequencia\obj\Debug\net7.0\Condicionais_Aluno_Frequencia.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Aluno_Frequencia\obj\Debug\net7.0\refint\Condicionais_Aluno_Frequencia.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Aluno_Frequencia\obj\Debug\net7.0\Condicionais_Aluno_Frequencia.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Aluno_Frequencia\obj\Debug\net7.0\Condicionais_Aluno_Frequencia.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Aluno_Frequencia\obj\Debug\net7.0\ref\Condicionais_Aluno_Frequencia.dll
