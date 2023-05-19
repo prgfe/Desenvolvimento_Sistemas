@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BAPTI\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Revisao\\Rev_Backend\\Condicionais_Maior_Menor\\Condicionais_Maior_Menor.csproj": {}
+    "C:\\Users\\38279457801\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Revisao\\Rev_Backend\\Condicionais_Maior_Menor\\Condicionais_Maior_Menor.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BAPTI\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Revisao\\Rev_Backend\\Condicionais_Maior_Menor\\Condicionais_Maior_Menor.csproj": {
+    "C:\\Users\\38279457801\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Revisao\\Rev_Backend\\Condicionais_Maior_Menor\\Condicionais_Maior_Menor.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BAPTI\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Revisao\\Rev_Backend\\Condicionais_Maior_Menor\\Condicionais_Maior_Menor.csproj",
+        "projectUniqueName": "C:\\Users\\38279457801\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Revisao\\Rev_Backend\\Condicionais_Maior_Menor\\Condicionais_Maior_Menor.csproj",
         "projectName": "Condicionais_Maior_Menor",
-        "projectPath": "C:\\Users\\BAPTI\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Revisao\\Rev_Backend\\Condicionais_Maior_Menor\\Condicionais_Maior_Menor.csproj",
-        "packagesPath": "C:\\Users\\BAPTI\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\BAPTI\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Revisao\\Rev_Backend\\Condicionais_Maior_Menor\\obj\\",
+        "projectPath": "C:\\Users\\38279457801\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Revisao\\Rev_Backend\\Condicionais_Maior_Menor\\Condicionais_Maior_Menor.csproj",
+        "packagesPath": "C:\\Users\\38279457801\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\38279457801\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Revisao\\Rev_Backend\\Condicionais_Maior_Menor\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\BAPTI\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\38279457801\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net7.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -53,7 +55,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.203\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
         }
       }
     }

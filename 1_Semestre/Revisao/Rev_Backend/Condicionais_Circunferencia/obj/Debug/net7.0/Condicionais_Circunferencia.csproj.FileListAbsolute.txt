@@ -1,0 +1,15 @@
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Circunferencia\bin\Debug\net7.0\Condicionais_Circunferencia.exe
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Circunferencia\bin\Debug\net7.0\Condicionais_Circunferencia.deps.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Circunferencia\bin\Debug\net7.0\Condicionais_Circunferencia.runtimeconfig.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Circunferencia\bin\Debug\net7.0\Condicionais_Circunferencia.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Circunferencia\bin\Debug\net7.0\Condicionais_Circunferencia.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Circunferencia\obj\Debug\net7.0\Condicionais_Circunferencia.csproj.AssemblyReference.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Circunferencia\obj\Debug\net7.0\Condicionais_Circunferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Circunferencia\obj\Debug\net7.0\Condicionais_Circunferencia.AssemblyInfoInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Circunferencia\obj\Debug\net7.0\Condicionais_Circunferencia.AssemblyInfo.cs
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Circunferencia\obj\Debug\net7.0\Condicionais_Circunferencia.csproj.CoreCompileInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Circunferencia\obj\Debug\net7.0\Condicionais_Circunferencia.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Circunferencia\obj\Debug\net7.0\refint\Condicionais_Circunferencia.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Circunferencia\obj\Debug\net7.0\Condicionais_Circunferencia.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Circunferencia\obj\Debug\net7.0\Condicionais_Circunferencia.genruntimeconfig.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Circunferencia\obj\Debug\net7.0\ref\Condicionais_Circunferencia.dll

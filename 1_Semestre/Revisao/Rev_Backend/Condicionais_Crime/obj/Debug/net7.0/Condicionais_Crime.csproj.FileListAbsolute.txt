@@ -1,0 +1,15 @@
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Crime\bin\Debug\net7.0\Condicionais_Crime.exe
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Crime\bin\Debug\net7.0\Condicionais_Crime.deps.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Crime\bin\Debug\net7.0\Condicionais_Crime.runtimeconfig.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Crime\bin\Debug\net7.0\Condicionais_Crime.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Crime\bin\Debug\net7.0\Condicionais_Crime.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Crime\obj\Debug\net7.0\Condicionais_Crime.csproj.AssemblyReference.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Crime\obj\Debug\net7.0\Condicionais_Crime.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Crime\obj\Debug\net7.0\Condicionais_Crime.AssemblyInfoInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Crime\obj\Debug\net7.0\Condicionais_Crime.AssemblyInfo.cs
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Crime\obj\Debug\net7.0\Condicionais_Crime.csproj.CoreCompileInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Crime\obj\Debug\net7.0\Condicionais_Crime.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Crime\obj\Debug\net7.0\refint\Condicionais_Crime.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Crime\obj\Debug\net7.0\Condicionais_Crime.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Crime\obj\Debug\net7.0\Condicionais_Crime.genruntimeconfig.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicionais_Crime\obj\Debug\net7.0\ref\Condicionais_Crime.dll

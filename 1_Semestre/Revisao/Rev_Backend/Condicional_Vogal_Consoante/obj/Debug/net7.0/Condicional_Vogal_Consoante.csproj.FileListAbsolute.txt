@@ -1,0 +1,15 @@
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicional_Vogal_Consoante\bin\Debug\net7.0\Condicional_Vogal_Consoante.exe
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicional_Vogal_Consoante\bin\Debug\net7.0\Condicional_Vogal_Consoante.deps.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicional_Vogal_Consoante\bin\Debug\net7.0\Condicional_Vogal_Consoante.runtimeconfig.json
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicional_Vogal_Consoante\bin\Debug\net7.0\Condicional_Vogal_Consoante.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicional_Vogal_Consoante\bin\Debug\net7.0\Condicional_Vogal_Consoante.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicional_Vogal_Consoante\obj\Debug\net7.0\Condicional_Vogal_Consoante.csproj.AssemblyReference.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicional_Vogal_Consoante\obj\Debug\net7.0\Condicional_Vogal_Consoante.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicional_Vogal_Consoante\obj\Debug\net7.0\Condicional_Vogal_Consoante.AssemblyInfoInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicional_Vogal_Consoante\obj\Debug\net7.0\Condicional_Vogal_Consoante.AssemblyInfo.cs
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicional_Vogal_Consoante\obj\Debug\net7.0\Condicional_Vogal_Consoante.csproj.CoreCompileInputs.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicional_Vogal_Consoante\obj\Debug\net7.0\Condicional_Vogal_Consoante.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicional_Vogal_Consoante\obj\Debug\net7.0\refint\Condicional_Vogal_Consoante.dll
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicional_Vogal_Consoante\obj\Debug\net7.0\Condicional_Vogal_Consoante.pdb
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicional_Vogal_Consoante\obj\Debug\net7.0\Condicional_Vogal_Consoante.genruntimeconfig.cache
+C:\Users\38279457801\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Condicional_Vogal_Consoante\obj\Debug\net7.0\ref\Condicional_Vogal_Consoante.dll
