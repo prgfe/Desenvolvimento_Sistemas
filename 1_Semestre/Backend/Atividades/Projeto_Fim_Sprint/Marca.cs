@@ -16,8 +16,24 @@ namespace Projeto_Fim_Sprint
             return novaMarca;
         }
 
-        public void Listar() { }
-
-        public void Deletar(int codigo) { }
+        public void Listar()
+        {
+            if (listaMarcas.Count > 0)
+            {
+                foreach (Marca p in listaMarcas)
+                {
+                    Console.WriteLine(@$"
+                    Código: {p.Codigo}
+                    Nome do produto: {p.NomeMarca}
+                    Data de cadastro: {p.DataCadastro}
+                    ");
+                }
+            }
+        }
+        public void Deletar(int codigo)
+        {
+            Marca p = listaMarcas.Find(x => x.Codigo == codigo);
+            listaMarcas.Remove(p);
+        }
     }
 }

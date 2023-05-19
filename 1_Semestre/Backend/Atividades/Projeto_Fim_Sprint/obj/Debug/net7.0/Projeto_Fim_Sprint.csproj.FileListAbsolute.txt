@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Projeto_Fim_Sprint\bin\Debug\net7.0\Projeto_Fim_Sprint.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Projeto_Fim_Sprint\bin\Debug\net7.0\Projeto_Fim_Sprint.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Projeto_Fim_Sprint\bin\Debug\net7.0\Projeto_Fim_Sprint.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Projeto_Fim_Sprint\bin\Debug\net7.0\Projeto_Fim_Sprint.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Projeto_Fim_Sprint\bin\Debug\net7.0\Projeto_Fim_Sprint.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Projeto_Fim_Sprint\obj\Debug\net7.0\Projeto_Fim_Sprint.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Projeto_Fim_Sprint\obj\Debug\net7.0\Projeto_Fim_Sprint.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Projeto_Fim_Sprint\obj\Debug\net7.0\Projeto_Fim_Sprint.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Projeto_Fim_Sprint\obj\Debug\net7.0\Projeto_Fim_Sprint.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Projeto_Fim_Sprint\obj\Debug\net7.0\Projeto_Fim_Sprint.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Projeto_Fim_Sprint\obj\Debug\net7.0\Projeto_Fim_Sprint.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Projeto_Fim_Sprint\obj\Debug\net7.0\refint\Projeto_Fim_Sprint.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Projeto_Fim_Sprint\obj\Debug\net7.0\Projeto_Fim_Sprint.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Projeto_Fim_Sprint\obj\Debug\net7.0\Projeto_Fim_Sprint.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Backend\Atividades\Projeto_Fim_Sprint\obj\Debug\net7.0\ref\Projeto_Fim_Sprint.dll

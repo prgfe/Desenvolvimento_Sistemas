@@ -16,9 +16,10 @@ namespace Projeto_Fim_Sprint
 
         List<Produto> listaProdutos = new List<Produto>();
 
-        public void Cadastrar()
+        public Produto Cadastrar()
         {
-
+            Produto novoProduto = new Produto();
+            return novoProduto;
         }
 
         public void Listar()
