@@ -1,0 +1,22 @@
+
+Antigamente um aplicativo era desenvolvido para ser usado em uma única máquina, nela continha todas a funcionalidades em um único módulo gerado por uma grande quantidade de linhas de código e de manutenção nada fácil;
+
+Podemos definir este tipo de aplicação como aplicação de uma camada;
+
+Camada = separação física ou uma camada lógica;
+
+A arquitetura MVC foi criada em 1979 pelo cientista da computação norueguês Trygve Reenskaug;
+
+A proposta do cientista da computação era criar um padrão de arquitetura que separasse o projeto em multicamadas, reduzindo assim a dependência entre elas e melhorando sua organização;
+ 
+Sigla MVC Model-View-Controller: tipo de padrão de projeto (design pattern)
+
+*O que são padrões de projetos?
+
+São soluções para problemas que alguém já teve, resolveu e documentou de uma maneira que possa ser adaptado à outros problemas/soluções.
+
+**Há três tipos de padrões de projeto:  criacionais - criação de classes ou objetos.
+					estruturais - leva em conta a estrutura de uma classe e sua composição. 
+					comportamentais - comunicação entre classes.
+
+Ideia da MVC: eficiência , escalabilidade , reutilização e facilidade de manutenção
