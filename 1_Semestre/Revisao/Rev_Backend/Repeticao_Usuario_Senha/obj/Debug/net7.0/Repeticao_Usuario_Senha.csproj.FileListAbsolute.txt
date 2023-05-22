@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Usuario_Senha\bin\Debug\net7.0\Repeticao_Usuario_Senha.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Usuario_Senha\bin\Debug\net7.0\Repeticao_Usuario_Senha.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Usuario_Senha\bin\Debug\net7.0\Repeticao_Usuario_Senha.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Usuario_Senha\bin\Debug\net7.0\Repeticao_Usuario_Senha.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Usuario_Senha\bin\Debug\net7.0\Repeticao_Usuario_Senha.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Usuario_Senha\obj\Debug\net7.0\Repeticao_Usuario_Senha.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Usuario_Senha\obj\Debug\net7.0\Repeticao_Usuario_Senha.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Usuario_Senha\obj\Debug\net7.0\Repeticao_Usuario_Senha.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Usuario_Senha\obj\Debug\net7.0\Repeticao_Usuario_Senha.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Usuario_Senha\obj\Debug\net7.0\Repeticao_Usuario_Senha.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Usuario_Senha\obj\Debug\net7.0\Repeticao_Usuario_Senha.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Usuario_Senha\obj\Debug\net7.0\refint\Repeticao_Usuario_Senha.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Usuario_Senha\obj\Debug\net7.0\Repeticao_Usuario_Senha.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Usuario_Senha\obj\Debug\net7.0\Repeticao_Usuario_Senha.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Usuario_Senha\obj\Debug\net7.0\ref\Repeticao_Usuario_Senha.dll

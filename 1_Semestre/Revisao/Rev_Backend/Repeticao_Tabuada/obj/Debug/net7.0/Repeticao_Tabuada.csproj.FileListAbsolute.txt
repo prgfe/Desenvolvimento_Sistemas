@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada\bin\Debug\net7.0\Repeticao_Tabuada.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada\bin\Debug\net7.0\Repeticao_Tabuada.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada\bin\Debug\net7.0\Repeticao_Tabuada.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada\bin\Debug\net7.0\Repeticao_Tabuada.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada\bin\Debug\net7.0\Repeticao_Tabuada.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada\obj\Debug\net7.0\Repeticao_Tabuada.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada\obj\Debug\net7.0\Repeticao_Tabuada.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada\obj\Debug\net7.0\Repeticao_Tabuada.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada\obj\Debug\net7.0\Repeticao_Tabuada.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada\obj\Debug\net7.0\Repeticao_Tabuada.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada\obj\Debug\net7.0\Repeticao_Tabuada.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada\obj\Debug\net7.0\refint\Repeticao_Tabuada.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada\obj\Debug\net7.0\Repeticao_Tabuada.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada\obj\Debug\net7.0\Repeticao_Tabuada.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada\obj\Debug\net7.0\ref\Repeticao_Tabuada.dll

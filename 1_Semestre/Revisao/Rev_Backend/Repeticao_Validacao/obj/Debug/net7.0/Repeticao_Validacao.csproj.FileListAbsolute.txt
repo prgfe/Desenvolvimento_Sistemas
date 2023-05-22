@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Validacao\bin\Debug\net7.0\Repeticao_Validacao.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Validacao\bin\Debug\net7.0\Repeticao_Validacao.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Validacao\bin\Debug\net7.0\Repeticao_Validacao.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Validacao\bin\Debug\net7.0\Repeticao_Validacao.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Validacao\bin\Debug\net7.0\Repeticao_Validacao.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Validacao\obj\Debug\net7.0\Repeticao_Validacao.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Validacao\obj\Debug\net7.0\Repeticao_Validacao.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Validacao\obj\Debug\net7.0\Repeticao_Validacao.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Validacao\obj\Debug\net7.0\Repeticao_Validacao.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Validacao\obj\Debug\net7.0\Repeticao_Validacao.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Validacao\obj\Debug\net7.0\Repeticao_Validacao.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Validacao\obj\Debug\net7.0\refint\Repeticao_Validacao.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Validacao\obj\Debug\net7.0\Repeticao_Validacao.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Validacao\obj\Debug\net7.0\Repeticao_Validacao.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Validacao\obj\Debug\net7.0\ref\Repeticao_Validacao.dll

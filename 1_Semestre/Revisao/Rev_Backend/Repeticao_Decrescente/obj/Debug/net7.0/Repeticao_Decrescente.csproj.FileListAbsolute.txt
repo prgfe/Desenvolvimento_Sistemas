@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Decrescente\bin\Debug\net7.0\Repeticao_Decrescente.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Decrescente\bin\Debug\net7.0\Repeticao_Decrescente.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Decrescente\bin\Debug\net7.0\Repeticao_Decrescente.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Decrescente\bin\Debug\net7.0\Repeticao_Decrescente.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Decrescente\bin\Debug\net7.0\Repeticao_Decrescente.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Decrescente\obj\Debug\net7.0\Repeticao_Decrescente.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Decrescente\obj\Debug\net7.0\Repeticao_Decrescente.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Decrescente\obj\Debug\net7.0\Repeticao_Decrescente.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Decrescente\obj\Debug\net7.0\Repeticao_Decrescente.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Decrescente\obj\Debug\net7.0\Repeticao_Decrescente.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Decrescente\obj\Debug\net7.0\Repeticao_Decrescente.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Decrescente\obj\Debug\net7.0\refint\Repeticao_Decrescente.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Decrescente\obj\Debug\net7.0\Repeticao_Decrescente.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Decrescente\obj\Debug\net7.0\Repeticao_Decrescente.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Decrescente\obj\Debug\net7.0\ref\Repeticao_Decrescente.dll

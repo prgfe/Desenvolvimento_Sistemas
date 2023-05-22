@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Funcoes_IR\bin\Debug\net7.0\Funcoes_IR.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Funcoes_IR\bin\Debug\net7.0\Funcoes_IR.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Funcoes_IR\bin\Debug\net7.0\Funcoes_IR.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Funcoes_IR\bin\Debug\net7.0\Funcoes_IR.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Funcoes_IR\bin\Debug\net7.0\Funcoes_IR.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Funcoes_IR\obj\Debug\net7.0\Funcoes_IR.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Funcoes_IR\obj\Debug\net7.0\Funcoes_IR.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Funcoes_IR\obj\Debug\net7.0\Funcoes_IR.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Funcoes_IR\obj\Debug\net7.0\Funcoes_IR.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Funcoes_IR\obj\Debug\net7.0\Funcoes_IR.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Funcoes_IR\obj\Debug\net7.0\Funcoes_IR.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Funcoes_IR\obj\Debug\net7.0\refint\Funcoes_IR.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Funcoes_IR\obj\Debug\net7.0\Funcoes_IR.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Funcoes_IR\obj\Debug\net7.0\Funcoes_IR.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Funcoes_IR\obj\Debug\net7.0\ref\Funcoes_IR.dll

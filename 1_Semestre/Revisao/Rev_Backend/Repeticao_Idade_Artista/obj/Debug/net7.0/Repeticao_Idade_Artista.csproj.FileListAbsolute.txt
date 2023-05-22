@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Artista\bin\Debug\net7.0\Repeticao_Idade_Artista.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Artista\bin\Debug\net7.0\Repeticao_Idade_Artista.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Artista\bin\Debug\net7.0\Repeticao_Idade_Artista.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Artista\bin\Debug\net7.0\Repeticao_Idade_Artista.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Artista\bin\Debug\net7.0\Repeticao_Idade_Artista.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Artista\obj\Debug\net7.0\Repeticao_Idade_Artista.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Artista\obj\Debug\net7.0\Repeticao_Idade_Artista.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Artista\obj\Debug\net7.0\Repeticao_Idade_Artista.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Artista\obj\Debug\net7.0\Repeticao_Idade_Artista.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Artista\obj\Debug\net7.0\Repeticao_Idade_Artista.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Artista\obj\Debug\net7.0\Repeticao_Idade_Artista.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Artista\obj\Debug\net7.0\refint\Repeticao_Idade_Artista.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Artista\obj\Debug\net7.0\Repeticao_Idade_Artista.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Artista\obj\Debug\net7.0\Repeticao_Idade_Artista.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Artista\obj\Debug\net7.0\ref\Repeticao_Idade_Artista.dll

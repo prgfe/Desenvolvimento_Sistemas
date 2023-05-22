@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Peso\bin\Debug\net7.0\Repeticao_Idade_Peso.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Peso\bin\Debug\net7.0\Repeticao_Idade_Peso.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Peso\bin\Debug\net7.0\Repeticao_Idade_Peso.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Peso\bin\Debug\net7.0\Repeticao_Idade_Peso.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Peso\bin\Debug\net7.0\Repeticao_Idade_Peso.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Peso\obj\Debug\net7.0\Repeticao_Idade_Peso.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Peso\obj\Debug\net7.0\Repeticao_Idade_Peso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Peso\obj\Debug\net7.0\Repeticao_Idade_Peso.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Peso\obj\Debug\net7.0\Repeticao_Idade_Peso.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Peso\obj\Debug\net7.0\Repeticao_Idade_Peso.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Peso\obj\Debug\net7.0\Repeticao_Idade_Peso.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Peso\obj\Debug\net7.0\refint\Repeticao_Idade_Peso.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Peso\obj\Debug\net7.0\Repeticao_Idade_Peso.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Peso\obj\Debug\net7.0\Repeticao_Idade_Peso.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Idade_Peso\obj\Debug\net7.0\ref\Repeticao_Idade_Peso.dll

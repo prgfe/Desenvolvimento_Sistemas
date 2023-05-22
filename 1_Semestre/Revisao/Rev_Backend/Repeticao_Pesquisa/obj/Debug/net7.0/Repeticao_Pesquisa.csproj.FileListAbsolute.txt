@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Pesquisa\bin\Debug\net7.0\Repeticao_Pesquisa.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Pesquisa\bin\Debug\net7.0\Repeticao_Pesquisa.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Pesquisa\bin\Debug\net7.0\Repeticao_Pesquisa.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Pesquisa\bin\Debug\net7.0\Repeticao_Pesquisa.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Pesquisa\bin\Debug\net7.0\Repeticao_Pesquisa.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Pesquisa\obj\Debug\net7.0\Repeticao_Pesquisa.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Pesquisa\obj\Debug\net7.0\Repeticao_Pesquisa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Pesquisa\obj\Debug\net7.0\Repeticao_Pesquisa.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Pesquisa\obj\Debug\net7.0\Repeticao_Pesquisa.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Pesquisa\obj\Debug\net7.0\Repeticao_Pesquisa.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Pesquisa\obj\Debug\net7.0\Repeticao_Pesquisa.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Pesquisa\obj\Debug\net7.0\refint\Repeticao_Pesquisa.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Pesquisa\obj\Debug\net7.0\Repeticao_Pesquisa.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Pesquisa\obj\Debug\net7.0\Repeticao_Pesquisa.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Pesquisa\obj\Debug\net7.0\ref\Repeticao_Pesquisa.dll

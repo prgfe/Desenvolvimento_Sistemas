@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada_UmDez\bin\Debug\net7.0\Repeticao_Tabuada_UmDez.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada_UmDez\bin\Debug\net7.0\Repeticao_Tabuada_UmDez.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada_UmDez\bin\Debug\net7.0\Repeticao_Tabuada_UmDez.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada_UmDez\bin\Debug\net7.0\Repeticao_Tabuada_UmDez.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada_UmDez\bin\Debug\net7.0\Repeticao_Tabuada_UmDez.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada_UmDez\obj\Debug\net7.0\Repeticao_Tabuada_UmDez.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada_UmDez\obj\Debug\net7.0\Repeticao_Tabuada_UmDez.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada_UmDez\obj\Debug\net7.0\Repeticao_Tabuada_UmDez.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada_UmDez\obj\Debug\net7.0\Repeticao_Tabuada_UmDez.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada_UmDez\obj\Debug\net7.0\Repeticao_Tabuada_UmDez.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada_UmDez\obj\Debug\net7.0\Repeticao_Tabuada_UmDez.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada_UmDez\obj\Debug\net7.0\refint\Repeticao_Tabuada_UmDez.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada_UmDez\obj\Debug\net7.0\Repeticao_Tabuada_UmDez.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada_UmDez\obj\Debug\net7.0\Repeticao_Tabuada_UmDez.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Tabuada_UmDez\obj\Debug\net7.0\ref\Repeticao_Tabuada_UmDez.dll

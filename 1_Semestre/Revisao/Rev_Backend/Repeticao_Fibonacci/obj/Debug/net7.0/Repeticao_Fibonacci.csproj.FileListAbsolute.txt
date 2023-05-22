@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Fibonacci\bin\Debug\net7.0\Repeticao_Fibonacci.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Fibonacci\bin\Debug\net7.0\Repeticao_Fibonacci.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Fibonacci\bin\Debug\net7.0\Repeticao_Fibonacci.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Fibonacci\bin\Debug\net7.0\Repeticao_Fibonacci.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Fibonacci\bin\Debug\net7.0\Repeticao_Fibonacci.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Fibonacci\obj\Debug\net7.0\Repeticao_Fibonacci.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Fibonacci\obj\Debug\net7.0\Repeticao_Fibonacci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Fibonacci\obj\Debug\net7.0\Repeticao_Fibonacci.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Fibonacci\obj\Debug\net7.0\Repeticao_Fibonacci.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Fibonacci\obj\Debug\net7.0\Repeticao_Fibonacci.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Fibonacci\obj\Debug\net7.0\Repeticao_Fibonacci.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Fibonacci\obj\Debug\net7.0\refint\Repeticao_Fibonacci.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Fibonacci\obj\Debug\net7.0\Repeticao_Fibonacci.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Fibonacci\obj\Debug\net7.0\Repeticao_Fibonacci.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Repeticao_Fibonacci\obj\Debug\net7.0\ref\Repeticao_Fibonacci.dll
