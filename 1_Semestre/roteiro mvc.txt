@@ -1,5 +1,5 @@
 
-Antigamente um aplicativo era desenvolvido para ser usado em uma única máquina. Essa máquina tinha todas a funcionalidades em um único módulo, renderização de página, acesso a banco de dados, permissões. Além disso, esse módulo gerava uma grande quantidade de linhas de código fazendo que sua manutenção e reutilização fossem difíceis - PROBLEMA;
+Antigamente um aplicativo era desenvolvido para ser usado em uma única máquina. Essa máquina tinha todas a funcionalidades em um único módulo, renderização de página, acesso a banco de dados, permissões. Além disso, esse módulo único gerava uma grande quantidade de linhas de código fazendo que sua manutenção e reutilização fossem difíceis - PROBLEMA;
 
 Este tipo de arquitetura ficou conhecido como arquitetura em 1 camada ou monocamada;
 
