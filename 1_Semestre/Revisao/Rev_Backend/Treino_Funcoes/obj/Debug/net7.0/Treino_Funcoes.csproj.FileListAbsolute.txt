@@ -1,0 +1,15 @@
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Treino_Funcoes\obj\Debug\net7.0\Treino_Funcoes.csproj.AssemblyReference.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Treino_Funcoes\obj\Debug\net7.0\Treino_Funcoes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Treino_Funcoes\obj\Debug\net7.0\Treino_Funcoes.AssemblyInfoInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Treino_Funcoes\obj\Debug\net7.0\Treino_Funcoes.AssemblyInfo.cs
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Treino_Funcoes\obj\Debug\net7.0\Treino_Funcoes.csproj.CoreCompileInputs.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Treino_Funcoes\bin\Debug\net7.0\Treino_Funcoes.exe
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Treino_Funcoes\bin\Debug\net7.0\Treino_Funcoes.deps.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Treino_Funcoes\bin\Debug\net7.0\Treino_Funcoes.runtimeconfig.json
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Treino_Funcoes\bin\Debug\net7.0\Treino_Funcoes.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Treino_Funcoes\bin\Debug\net7.0\Treino_Funcoes.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Treino_Funcoes\obj\Debug\net7.0\Treino_Funcoes.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Treino_Funcoes\obj\Debug\net7.0\refint\Treino_Funcoes.dll
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Treino_Funcoes\obj\Debug\net7.0\Treino_Funcoes.pdb
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Treino_Funcoes\obj\Debug\net7.0\Treino_Funcoes.genruntimeconfig.cache
+C:\Users\BAPTI\Desktop\Desenvolvimento_Sistemas\1_Semestre\Revisao\Rev_Backend\Treino_Funcoes\obj\Debug\net7.0\ref\Treino_Funcoes.dll

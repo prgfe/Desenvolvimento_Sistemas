@@ -34,6 +34,6 @@ switch (tipo)
         }
         break;
     default:
-        Console.WriteLine($"insira valor válido.");
+        Console.WriteLine($"Insira opção válida.");
         break;
 }
