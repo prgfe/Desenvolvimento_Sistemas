@@ -78,5 +78,6 @@ namespace Console_MVC.Model
             // Inserir todas as linhas no arquivo dentro do PATH
             File.AppendAllLines(PATH, linhas);
         }
+        
     }
 }
