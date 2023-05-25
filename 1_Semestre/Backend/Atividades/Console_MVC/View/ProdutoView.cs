@@ -29,7 +29,6 @@ namespace Console_MVC.view
             novoProduto.Preco = float.Parse(Console.ReadLine());
 
             return novoProduto;
-
         }
     }
 }

@@ -1,3 +1,10 @@
 ﻿using Evento_MVC.Model;
+using Evento_MVC.Controller;
 
-Evento e = new Evento();
+Eventos eventos = new Eventos();
+
+EventosController controller = new EventosController();
+
+controller.Cadastrar();
+
+controller.ListarEventos();
