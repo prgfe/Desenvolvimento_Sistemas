@@ -1,0 +1,39 @@
+/* Importação de fontes */
+@font-face {
+    font-family: Roboto;
+    src: url(../assets/fonts/Roboto/Roboto-Light.ttf);
+}
+@font-face {
+    font-family: Kalam;
+    src: url(../assets/fonts/Kalam/Kalam-Bold.ttf);
+}
+/* Reset de Página */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Alinhamento dos elementos da página */
+.layout-grid {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+/* Cabeçalho */
+header {
+    background-color: grey;
+    height: 60px;
+}
+
+header .header-flex {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    height: 100%;    
+}
+
+header h1{
+    font-family: Roboto;
+}
