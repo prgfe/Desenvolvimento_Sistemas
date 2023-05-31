@@ -4,6 +4,18 @@
     ViewData["Title"] = "Equipe";
 }
 
+<form method="post" action="@Url.Action("Cadastrar")" enctype="multipart/form-data">
+
+    <label for="">Nome</label>
+
+    <input type="text" name="Nome">
+
+    <input type="file" name="Imagem" required>
+
+    <button type="submit">Cadastrar</button>
+
+</form>
+
 <h1>Tela de Equipes</h1>
 
 <table class="table table-striped table-responsive">
