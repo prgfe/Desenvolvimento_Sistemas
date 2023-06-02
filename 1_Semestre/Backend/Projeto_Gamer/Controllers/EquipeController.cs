@@ -63,7 +63,7 @@ namespace Projeto_Gamer.Controllers
             }
             else
             {
-                novaEquipe.Imagem = "padrão.png";
+                novaEquipe.Imagem = "padrao.png";
             }
             // Fim da lógica de upload de imagem
 
