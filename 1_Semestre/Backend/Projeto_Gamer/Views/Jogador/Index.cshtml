@@ -6,23 +6,8 @@
 
 <form method="post" action="@Url.Action("Listar")" enctype="multipart/form-data">
 
-    <label for="">Nome</label>
-
-    <input type="text" name="Nome" required>
-
-    <label for="">Email</label>
-
-    <input type="text" name="Email" required>
-
-    <label for="">Senha</label>
-
-    <input type="text" name="Senha" required>
-
-    <label for="">Equipe</label>
-
-    <input type="text" name="Equipe" required>
-
-    <button type="submit">Cadastrar</button>
+   
+   
 
 </form>
 
@@ -35,7 +20,6 @@
         <th>Nome</th>
         <th>Email</th>
         <th>Equipe</th>
-        <th>Ações</th>
     </thead>
 
     <tbody>
@@ -43,6 +27,11 @@
         {
             <tr>
                 <td>@jogador.IdJogador</td>
+                <td>@jogador.Nome</td>
+                <td>@jogador.Email</td>
+                <td>
+                    <img src="/img/Equipes/@jogador.Equipe.Imagem" alt="Imagem da equipe @jogador.Equipe.Nome" width="50px">
+                </td>
             </tr>
         }
     </tbody>
