@@ -32,6 +32,9 @@ namespace Projeto_Gamer.Controllers
             Jogador novoJogador = new Jogador();
 
             novoJogador.Nome = form["Nome"].ToString();
+            novoJogador.Email = form["Email"].ToString();
+            novoJogador.Senha = form["Senha"].ToString();
+            novoJogador.IdEquipe = int.Parse(form["IdEquipe"].ToString());
 
             c.Jogador.Add(novoJogador);
 
@@ -44,6 +47,48 @@ namespace Projeto_Gamer.Controllers
         public IActionResult Error()
         {
             return View("Error!");
+        }
+
+        [Route("Editar{id}")]
+        public IActionResult Editar(int id)
+        {
+            Jogador jogador = c.Jogador.First(x => x.IdEquipe == id);
+            ViewBag.Jogador = jogador;
+            ViewBag.Equipe = c.Equipe.ToList();
+
+            return View("Edit");
+        }
+
+        [Route("Atualizar")]
+        public IActionResult Atualizar(IFormCollection form)
+        {
+            Jogador novoJogador = new Jogador();
+            novoJogador.IdJogador = int.Parse(form["IdJogador"].ToString());
+            novoJogador.Nome = form["Nome"].ToString();
+            novoJogador.Email = form["Email"].ToString();
+            novoJogador.Senha = form["Senha"].ToString();
+            novoJogador.IdEquipe = int.Parse(form["Nome"].ToString());
+
+            Jogador jogadorBuscado = c.Jogador.First(j => j.IdJogador == novoJogador.IdJogador);
+
+            jogadorBuscado.Nome = novoJogador.Nome;
+            jogadorBuscado.Email = novoJogador.Email;
+            jogadorBuscado.Senha = novoJogador.Senha;
+            jogadorBuscado.IdEquipe = novoJogador.IdEquipe;
+
+            c.Jogador.Update(jogadorBuscado);
+            c.SaveChanges();
+
+            return LocalRedirect("~/Jogador/Listar");
+        }
+
+        [Route("Excluir{id}")]
+        public IActionResult Excluir(int id)
+        {
+            Jogador jogador = c.Jogador.First(x => x.IdEquipe == id);
+            c.Remove(jogador);
+            c.SaveChanges();
+            return LocalRedirect("~/Jogador/Listar");
         }
     }
 }
