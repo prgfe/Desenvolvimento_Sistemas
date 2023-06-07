@@ -5,11 +5,9 @@
 }
 <h2>Edição de Jogadores</h2>
 
-<form method="post" action="@Url.Action("Atualizar")" enctype="multipart/form-data">
+<form method="post" action="@Url.Action("Atualizar")">
 
-    <input type="hidden" name="IdJogador">
-
-    <input type="hidden" name="IdEquipe" value="@ViewBag.jogador.IdJogador">
+    <input type="hidden" name="IdJogador" value="@ViewBag.Jogador.IdJogador">
 
     <label for="">Nome</label>
     <input type="text" name="Nome" value="@ViewBag.jogador.Nome" required>
@@ -28,11 +26,11 @@
         {
             if (equipe.IdEquipe == @ViewBag.jogador.IdEquipe)
             {
-                <option value="@equipe.IdEquipe" selected></option>
+                <option value="@equipe.IdEquipe" selected>@equipe.Nome</option>
             }
             else
             {
-                <option value="@equipe.IdEquipe"></option>
+                <option value="@equipe.IdEquipe">@equipe.Nome</option>
             }
         }
     </select>

@@ -21,6 +21,9 @@ namespace Projeto_Gamer.Controllers
         [Route("Listar")] //http://localhost/Equipe/Listar
         public IActionResult Index()
         {
+
+            ViewBag.UserName = HttpContext.Session.GetString("UserName");
+
             //"mochila" que contém a lista das equipes
             //podemos usar essa mochila na view de equipe
             ViewBag.Equipe = c.Equipe.ToList();
@@ -67,14 +70,6 @@ namespace Projeto_Gamer.Controllers
             }
             // Fim da lógica de upload de imagem
 
-
-
-
-
-
-
-
-
             c.Equipe.Add(novaEquipe);
             // c.Add(novaEquipe); **Mais direto, sênior**
 
@@ -98,6 +93,8 @@ namespace Projeto_Gamer.Controllers
         [Route("Editar/{id}")]
         public IActionResult Editar(int id)
         {
+            ViewBag.UserName = HttpContext.Session.GetString("UserName");
+
             Equipe e = c.Equipe.First(e => e.IdEquipe == id);
 
             ViewBag.Equipe = e;
