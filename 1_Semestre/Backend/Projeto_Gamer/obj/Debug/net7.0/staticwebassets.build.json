@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "XkmS9N/z9D+AcN+MKbQbtsWNpN0TShd91oFYGepqYO4=",
+  "Hash": "Eyn0EpNP/RTqbORNozi2WAxiynjDcudqf2/Y7TF7urw=",
   "Source": "Projeto_Gamer",
   "BasePath": "_content/Projeto_Gamer",
   "Mode": "Default",
@@ -935,6 +935,23 @@
       "OriginalItemSpec": "wwwroot\\assets\\menu-points.png"
     },
     {
+      "Identity": "C:\\Users\\38279457801\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Backend\\Projeto_Gamer\\wwwroot\\assets\\pen-solid.svg",
+      "SourceId": "Projeto_Gamer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\38279457801\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Backend\\Projeto_Gamer\\wwwroot\\",
+      "BasePath": "_content/Projeto_Gamer",
+      "RelativePath": "assets/pen-solid.svg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\assets\\pen-solid.svg"
+    },
+    {
       "Identity": "C:\\Users\\38279457801\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Backend\\Projeto_Gamer\\wwwroot\\assets\\phone-icon.png",
       "SourceId": "Projeto_Gamer",
       "SourceType": "Discovered",
@@ -1103,6 +1120,23 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\css\\home.css"
+    },
+    {
+      "Identity": "C:\\Users\\38279457801\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Backend\\Projeto_Gamer\\wwwroot\\css\\jogadores.css",
+      "SourceId": "Projeto_Gamer",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\38279457801\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Backend\\Projeto_Gamer\\wwwroot\\",
+      "BasePath": "_content/Projeto_Gamer",
+      "RelativePath": "css/jogadores.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\jogadores.css"
     },
     {
       "Identity": "C:\\Users\\38279457801\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Backend\\Projeto_Gamer\\wwwroot\\css\\login.css",

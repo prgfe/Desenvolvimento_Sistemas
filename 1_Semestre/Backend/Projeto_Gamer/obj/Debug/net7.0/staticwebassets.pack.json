@@ -213,6 +213,10 @@
       "PackagePath": "staticwebassets\\assets\\menu-points.png"
     },
     {
+      "Id": "C:\\Users\\38279457801\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Backend\\Projeto_Gamer\\wwwroot\\assets\\pen-solid.svg",
+      "PackagePath": "staticwebassets\\assets\\pen-solid.svg"
+    },
+    {
       "Id": "C:\\Users\\38279457801\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Backend\\Projeto_Gamer\\wwwroot\\assets\\phone-icon.png",
       "PackagePath": "staticwebassets\\assets\\phone-icon.png"
     },
@@ -251,6 +255,10 @@
     {
       "Id": "C:\\Users\\38279457801\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Backend\\Projeto_Gamer\\wwwroot\\css\\home.css",
       "PackagePath": "staticwebassets\\css\\home.css"
+    },
+    {
+      "Id": "C:\\Users\\38279457801\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Backend\\Projeto_Gamer\\wwwroot\\css\\jogadores.css",
+      "PackagePath": "staticwebassets\\css\\jogadores.css"
     },
     {
       "Id": "C:\\Users\\38279457801\\Desktop\\Desenvolvimento_Sistemas\\1_Semestre\\Backend\\Projeto_Gamer\\wwwroot\\css\\login.css",
